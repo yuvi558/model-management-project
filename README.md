@@ -33,7 +33,7 @@ This project focuses on **clean UI design, smooth animations, scrolling effects,
 
 ---
 
-Open pr.html in your browser.
+-> OPEN pr.html in your browser.
 
 📸 Screenshots
 
