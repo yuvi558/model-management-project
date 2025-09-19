@@ -33,7 +33,7 @@ This project focuses on **clean UI design, smooth animations, scrolling effects,
 
 ---
 
--> OPEN  [View Project](https://yuvi558.github.io/model-management-project/)
+-> OPEN  [index.html](https://github.com/yuvi558/model-management-project/blob/main/Code/index.html)
 
 📸 Screenshots
 
