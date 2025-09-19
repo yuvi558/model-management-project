@@ -31,5 +31,4 @@ This project focuses on **clean UI design, smooth animations, scrolling effects,
    ```bash
     https://github.com/yuvi558/model-management-project.git
 
-   <img width="4000" height="2620" alt="3" src="https://github.com/user-attachments/assets/bcb6f03a-70ac-4d2a-b43b-b82c4820c756" />
 
