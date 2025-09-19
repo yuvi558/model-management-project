@@ -43,7 +43,12 @@ This project focuses on **clean UI design, smooth animations, scrolling effects,
 
 ![2](https://github.com/user-attachments/assets/f85f991a-d049-4135-88a8-1d0d773efa33)
 
-<img width="4000" height="2620" alt="3" src="https://github.com/user-attachments/assets/ea293ba4-f8cf-4918-b914-89368cf455e0" />
+
+![3](https://github.com/user-attachments/assets/da62d611-c996-4fdc-bacd-17945b9d9057)
+
+![4](https://github.com/user-attachments/assets/3b08fe95-6966-457e-9fc2-4be322c473ec)
+
+
 
 📜 License
 
