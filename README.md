@@ -37,7 +37,8 @@ Open pr.html in your browser.
 
 📸 Screenshots
 
-![1](https://github.com/user-attachments/assets/f52accc3-2dac-4c4d-b7fd-3b92623eaf8a
+![1](https://github.com/user-attachments/assets/50fc85d2-3777-4cdf-afe7-26728137843b)
+
 
 
 ![2](https://github.com/user-attachments/assets/f85f991a-d049-4135-88a8-1d0d773efa33)
