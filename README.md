@@ -29,7 +29,7 @@ This project focuses on **clean UI design, smooth animations, scrolling effects,
 ## 📂 How to Run Locally  
 1. Clone the repository:  
    ```bash
-    https://github.com/yuvi558/model-management-project.git
+   git clone https://github.com/yuvi558/model-management-project.git
 
 ---
 
